@@ -54,12 +54,7 @@ URGENCY_LEVELS = ["Low", "Medium", "High", "Emergency"]
 
 
 def _token() -> str:
-    secrets = load_secrets()
-    token = os.getenv("TELEGRAM_BOT_TOKEN") or secrets.get("TELEGRAM_BOT_TOKEN")
-    if not token:
-        raise SystemExit(
-            "Set TELEGRAM_BOT_TOKEN in the environment or in .streamlit/secrets.toml"
-        )
+    return "8778935647:AAH2JrTqDdrRynv9RwIvmMMsJaa06M_4_5M"
     return token
 
 

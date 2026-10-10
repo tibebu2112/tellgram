@@ -1,0 +1,10 @@
+id,created_at,campus,category,description,location,evidence_path,evidence_file_id,is_anonymous,full_name,phone,department,telegram_id,telegram_username,priority,status,action
+#BDU-2026-101,2026-10-06 08:15:00,ፔዳ (Peda),📚 አካዳሚክና ቴክኖሎጂ,የፈተና ወቅት Wi-Fi በቤተ-መጽሐፍት አይሰራም።,Library Lab 2,,,no,Abebe Kebede,0911000001,Computer Science,,,High,Open,ለአይሲቲ ክፍሉ መላክ
+#BDU-2026-102,2026-10-07 12:40:00,ፖሊ / BiT,🍽 የካፌ አገልግሎት,የምግብ ጥራት ዝቅተኛ ነው፣ ወረፋውም ረጅም ነው።,Cafe 1,,,no,Marta Hailu,0911000002,Electrical Engineering,,,Medium,In Progress,ከካፌ አስተዳደር ጋር መነጋገር
+#BDU-2026-103,2026-10-08 06:20:00,ዘንዘልማ (Zenzelma),🏠 የዶርም አገልግሎት,ዶርም 3 ላይ ውሃ ተቋርጧል፣ አሁን ተስተካክሏል።,Dorm 3,,,yes,Anonymous,,,,Low,Resolved,ተጠናቋል
+#BDU-2026-104,2026-10-08 21:05:00,ሰባታሚት (Sebatamit),🛡 ሰላምና ደህንነት,ከምሽቱ በኋላ የካምፓስ ጥበቃ በጌት አካባቢ አይታይም።,Main gate,,,yes,Anonymous,,,,High,Open,ለካምፓስ ጥበቃ መላክ
+#BDU-2026-105,2026-10-09 09:10:00,ጥቁር ዓባይ / ጥበበ ጊዮን (Tibebe Ghion),🏠 የዶርም አገልግሎት,መብራት እየቆረጠ ነው፣ የንፅህና ችግርም አለ።,Block B room 12,,,no,Yonas Alemu,0911000003,Medicine / Health,,,Medium,In Progress,ለዶርም አስተዳደር መላክ
+#BDU-2026-106,2026-10-09 18:30:00,ፔዳ (Peda),🍽 የካፌ አገልግሎት,አስተናጋጅ አገልግሎት እና ንፅህና ማሻሻል ያስፈልጋል።,Student lounge cafe,,,no,Sara Tadesse,0911000004,Business / Economics,,,Medium,Open,ከካፌ አስተዳደር ጋር መነጋገር
+#BDU-2026-107,2026-10-10 07:45:00,ፖሊ / BiT,📚 አካዳሚክና ቴክኖሎጂ,ግሬድ ፖርታል ላይ ውጤት አይታይም።,Registrar,,,yes,Anonymous,,,,Medium,Open,ለአይሲቲ / አካዳሚክ ክፍሉ መላክ
+#BDU-2026-108,2026-10-10 11:20:00,ይባቤ (Yibabe),🏠 የዶርም አገልግሎት,ዶርም ውስጥ ውሃ ግፊት ዝቅተኛ ነው።,Dorm 1,,,yes,Anonymous,,,,Medium,Open,ለዶርም አስተዳደር መላክ
+#BDU-2026-109,2026-10-10 14:05:00,ሰላም (Selam),🍽 የካፌ አገልግሎት,የካፌ ወረፋ ረጅም ነው፣ የምግብ ንፅህናም ማሻሻል ያስፈልጋል።,Main cafe,,,no,Hanna Bekele,0911000005,Education,,,Medium,In Progress,ከካፌ አስተዳደር ጋር መነጋገር

@@ -249,15 +249,8 @@ def _render_evidence(evidence_path: str, evidence_file_id: str) -> None:
 
 
 # ── Boot bot ───────────────────────────────────────────────────────────────────
-_worker_running = os.getenv("WORKER_BOT_RUNNING") == "1"
-
-if _worker_running:
-    bot_state  = "worker"
-    status     = "running (worker)"
-    bot_error  = ""
-else:
-    bot_state = start_bot_background()
-    status, bot_error = bot_status()
+bot_state = start_bot_background()
+status, bot_error = bot_status()
 
 # ── Header ─────────────────────────────────────────────────────────────────────
 st.title("🎓 BDU Student Union — Complaint Dashboard")

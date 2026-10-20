@@ -1,9 +1,0 @@
-streamlit>=1.39.0
-st-gsheets-connection
-pandas
-plotly
-python-telegram-bot>=21.6
-gspread
-google-auth
-sqlalchemy
-toml

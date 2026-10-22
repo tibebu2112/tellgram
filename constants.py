@@ -6,7 +6,7 @@ CAMPUSES = [
     "ፔዳ (Peda)",
     "ፖሊ / BiT",
     "ዘንዘልማ (Zenzelma)",
-    "ሰባታሚት (Sebatamit)",
+    "COBE",
     "ጥቁር ዓባይ / ጥበበ ጊዮን (Tibebe Ghion)",
     "ይባቤ (Yibabe)",
     "ሰላም (Selam)",

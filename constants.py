@@ -7,7 +7,7 @@ CAMPUSES = [
     "ፖሊ / BiT",
     "ዘንዘልማ (Zenzelma)",
     "ጥቁር ዓባይ / ጥበበ ጊዮን (Tibebe Ghion)",
-    "ይባቤ (Yibabe)",
+    "ግሽ አባይ (Yibabe)",
     "ሰላም (Selam)",
     "ቢዝነስና ኢኮኖሚክስ (Business & Economics)",
 ]

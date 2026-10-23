@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+evidence/*
+!evidence/.gitkeep
+*.log
+.idea/
+.vscode/
+.bot.lock
